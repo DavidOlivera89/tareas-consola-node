@@ -11,7 +11,7 @@ Aplicación de consola desarrollada en Nodejs, que gestiona tareas.
 1- clonar el repositorio:
 
 ```
-git clone "link"
+git clone "https://github.com/DavidOlivera89/tareas-consola-node.git"
 ```
 
 2-En el directorio raíz ejecutar los comandos:
